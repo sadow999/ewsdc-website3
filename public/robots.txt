@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sadow999.github.io/ewsdc-website3/sitemap.xml
